@@ -13,6 +13,7 @@ public class BonjourNom {
 
     /**
      * @param args the command line arguments
+     * Voir dans Run, Set project configuration
      */
     public static void main(String[] args) {
         Person john = new Person(args[0], args[1], 46);
