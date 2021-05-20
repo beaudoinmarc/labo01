@@ -19,9 +19,7 @@ public class BonjourNom {
         
         System.out.println("Prenom :" + john.getFirstName());
         System.out.println("Nom : " + john.getLastName());
-        System.out.println("Âge : " + john.getAge());
-        
-        
+        System.out.println("Âge : " + john.getAge());  
     }
     
 }
